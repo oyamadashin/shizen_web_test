@@ -75,3 +75,20 @@ a.hpb-parts-blist-style:active
 	}
 	
 }
+
+
+/* ===== お問い合わせボタン ロールオーバー ===== */
+.rol-button {
+    display: inline-block;
+    width: 191px;
+    height: 47px;
+    background-image: url("button111.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 0;
+    text-indent: -9999px; /* ボタン内テキストがあれば消す */
+}
+
+.rol-button:hover {
+    background-image: url("button1111.gif");
+}
