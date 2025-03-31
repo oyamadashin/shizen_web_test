@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.5.0 for Windows">
+<meta name="Keywords" content="知床,北海道,観光,6次産業化,大学,自然">
+<meta name="Description" content="自然資源経営学科はオホーツク地域の様々な産業と連携した学びを展開する学科です。">
+<title>東京農業大学 生物産業学部 自然資源経営学科</title>
+<link rel="stylesheet" href="hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="container_9J_2c_top.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="main_9J_2c.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="user.css" type="text/css" id="hpbuser">
+<script type="text/javascript" src="jquery.min.js"><!-- hpbiptitle jQuery library --></script> <script type="text/javascript" src="move-mainnav.js">hpb-move-mainnav-js</script>
+<script type="text/javascript" language="JavaScript">
+<!--HPB_SCRIPT_ROV_50
+//
+//  (C) 2020 株式会社ジャストシステム
+//
+
+// HpbImgPreload:
+//
+function HpbImgPreload()
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var imgName = HpbImgPreload.arguments[0];
+      var cnt;
+      swImg[imgName] = new Array;
+      for (cnt = 1; cnt < HpbImgPreload.arguments.length; cnt++)
+      {
+        swImg[imgName][HpbImgPreload.arguments[cnt]] = new Image();
+        swImg[imgName][HpbImgPreload.arguments[cnt]].src = HpbImgPreload.arguments[cnt];
+      }
+    }
+  }
+}
+// HpbImgFind:
+//
+function HpbImgFind(doc, imgName)
+{
+  for (var i=0; i < doc.layers.length; i++)
+  {
+    var img = doc.layers[i].document.images[imgName];
+    if (!img) img = HpbImgFind(doc.layers[i], imgName);
+    if (img) return img;
+  }
+  return null;
+}
+// HpbImgSwap:
+//
+function HpbImgSwap(imgName, imgSrc)
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var img = document.images[imgName];
+      if (!img) img = HpbImgFind(document, imgName);
+      if (img) img.src = imgSrc;
+    }
+  }
+}
+var swImg; swImg=new Array;
+//-->
+</script>
+<script type="text/javascript" language="JavaScript">
+<!--HPB_SCRIPT_PLD_50
+HpbImgPreload('HPB_ROLLOVER2', 'file:///C:/Users/user/OneDrive/ドキュメント/100_業務/400_学科サイト更新/shizen_web/button111.gif', 'file:///C:/Users/user/AppData/Roaming/Justsystem/Homepage Builder Version 22/tmp/button1111.gif');
+//-->
+</script> </head>
+<body id="hpb-template-09-10-01" class="hpb-layoutset-01 hpb-responsive">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1>東京農業大学　生物産業学部</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="index.html">東京農業大学　生物産業学部　自然自然経営学科</a></div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title" class="hpb-top-image">
+        <h2>○○○○○○○○○○○○○○○東京農業大学 生物産業学部 自然資源経営学科</h2>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <!-- toppage -->
+        <div id="toppage">
+          <p>今日の日本において、都市部が発展し続ける一方で、地域社会は過疎化などの様々な課題に直面しています。しかし、地域社会にはまだ眠っている資源があるのではないでしょうか。その可能性を見出し、都市とは異なるアプローチでの社会発展を探究すべく、オホーツク地域の様々な産業と連携した学びを展開しています。</p>
+          <hr>
+          <div id="toppage-news">
+            <h3><span class="ja">新着情報</span><span class="en">お知らせ</span></h3>
+            <dl>
+              <dt>2025年*月*日 
+              <dd>サイトをリニューアルしました。 
+            </dl>
+          </div>
+
+          <div id="pagetop" style="text-align : left;"><a href="#hpb-container">このページの先頭へ</a>
+            <div>
+              <ul style="margin:0;padding:0">
+                <li style="display:inline;background-image:none;padding:2px 1px 1px;border:0">
+              </ul>
+            </div>
+            <!-- toppage end --></div>
+        </div>
+      </div>
+      <!-- main end -->
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav">
+      <h3 class="hpb-c-index">contents</h3>
+      <ul>
+        <li id="nav-toppage"><a href="index.html"><span class="ja">トップページ</span><span class="en">トップページ</span></a> 
+        <li id="nav-profile"><a href="aboutus.html"><span class="ja">プロフィール</span><span class="en">学科紹介</span></a> 
+        <li id="nav-schedule"><a href="laboratory.html"><span class="ja">スケジュール</span><span class="en">研究室紹介</span></a> 
+        <li id="nav-reoprt"><a href="fieldwork.html"><span class="ja">活動報告</span><span class="en">フィールドワーク</span></a> 
+        <li id="nav-information"><a href="graduatethesis.html"><span class="ja">ご案内</span><span class="en">卒業論文</span></a> 
+        <li><a href="admission.html"><span class="ja">ご案内</span><span class="en">入試情報</span></a> 
+        <li><span class="ja">ご案内</span> 
+      </ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <div id="banner" style="text-align : left;">
+        <h2>学科SNS</h2>
+        <a href="https://www.facebook.com/TUA.ShizenSigenKeiei/"><img src="img/Facebook_Logo_Primary.png" width="30" height="30" border="0" hspace="15" vspace="15" align="left" alt="Facebookロゴ"></a>
+        <div><a href="https://www.instagram.com/nature_nodai/"><img src="img/Instagram_Glyph_Gradient.png" width="30" height="30" border="0" hspace="15" vspace="15" alt="インスタグラムロゴ"></a></div>
+        　
+        <h2>所在地</h2>
+        <p>〒099-2493<br>
+        北海道網走市八坂196</p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1778744.7709348495!2d141.6305071505508!3d43.515283410866694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f6d3686e70d5a61%3A0x603394fdd5c8638f!2z5p2x5Lqs6L6y5qWt5aSn5a2mIOWMl-a1t-mBk-OCquODm-ODvOODhOOCr-OCreODo-ODs-ODkeOCuQ!5e0!3m2!1sja!2sjp!4v1741929454805!5m2!1sja!2sjp" style="border:0;
+	width : 241px;
+	height : 181px;
+	allowfullscreen=" " loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <div>
+          <h2>お問い合わせ</h2>
+          <div><a href="https://form.run/embed/@so--h7cgMnsIVmKWk0HRAmiR?embed=direct"><a href="https://form.run/embed/@so--h7cgMnsIVmKWk0HRAmiR?embed=direct" id="HPB_ROLLOVER2" name="HPB_ROLLOVER2" onmouseout="HpbImgSwap('HPB_ROLLOVER2', 'file:///C:/Users/user/OneDrive/ドキュメント/100_業務/400_学科サイト更新/shizen_web/button111.gif');" onmouseover="HpbImgSwap('HPB_ROLLOVER2', 'file:///C:/Users/user/AppData/Roaming/Justsystem/Homepage Builder Version 22/tmp/button1111.gif');"><img src="file:///C:/Users/user/OneDrive/ドキュメント/100_業務/400_学科サイト更新/shizen_web/button111.gif" width="191" height="47" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="お問い合わせフォーム " name="HPB_ROLLOVER2"></a></a></div>
+          <h2><br>
+          </h2>
+        </div>
+      </div>
+    </div>
+    <!-- aside end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerMain">
+      <p>&copy;2025 Tokyo University of Agriculture, Department of Business, Natural
+      Resource and Economic Development.&nbsp;All&nbsp;Rights&nbsp;Reserved.</p>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<!-- container end --><script type="text/javascript" src="navigation.js">hpb-navigation-js</script> </body>
+</html>
